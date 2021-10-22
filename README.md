@@ -1,9 +1,9 @@
 ## Marcelo Augusto Ruppenthal
 
-<div style="display: inline_block"><br>
+<div align="center">
    <a href="https://github.com/MarceloRuppenthal">
-   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloRuppenthal&theme=blue-green">
-   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloRuppenthal&theme=blue-green">
+   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloRuppenthal&theme=blue-green"/>
+   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloRuppenthal&theme=blue-green"/>
 </div>
   
 <div style="display: inline_block"><br>
